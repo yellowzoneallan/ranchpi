@@ -1,0 +1,42 @@
+127.0.0.1 localhost
+
+# The following lines are desirable for IPv6 capable hosts
+::1 ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+
+192.168.1.201	pi4801  pi4801.allan.private
+192.168.1.202	pi4802  pi4802.allan.private
+192.168.1.203	pi4803  pi4803.allan.private
+192.168.1.204	pi4804  pi4804.allan.private
+192.168.1.205	pi4805  pi4805.allan.private
+192.168.1.206	pi4806  pi4806.allan.private
+192.168.1.207	pi4807  pi4807.allan.private
+192.168.1.208	pi4808  pi4808.allan.private
+192.168.1.209	pi4809  pi4809.allan.private
+192.168.1.210	pi4810  pi4810.allan.private
+192.168.1.211	pi4811  pi4811.allan.private
+192.168.1.212	pi4812  pi4812.allan.private
+192.168.1.213	pi4813  pi4813.allan.private
+192.168.1.214	pi4814  pi4814.allan.private
+192.168.1.215	pi4815  pi4815.allan.private
+192.168.1.216	pi4816  pi4816.allan.private
+192.168.1.217	pi4817  pi4817.allan.private
+192.168.1.218	pi4818  pi4818.allan.private
+192.168.1.219	pi4819  pi4819.allan.private
+192.168.1.220	pi4820  pi4820.allan.private
+192.168.1.221	pi4821  pi4821.allan.private
+192.168.1.222	pi4822  pi4822.allan.private
+
+192.168.1.230	k3scluster.allan.private
+192.168.1.231	rancher.allan.private
+192.168.1.232	loadbalancer.allan.private
+192.168.1.233	infrastructure.allan.private
+192.168.1.234	kubeflow.allan.private
+192.168.1.235	database.allan.private
+192.168.1.236	webserver.allan.private
+
+192.168.1.240	metallb.allan.private

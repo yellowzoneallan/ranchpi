@@ -1,0 +1,4 @@
+scp * host:~/
+vi 50-<tab> and set IP
+sudo hostnamectl set-hostname pi4822
+./applyubuntu.sh
